@@ -1,0 +1,15 @@
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/bin/Debug/net5.0/WordUnscambler.deps.json
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/bin/Debug/net5.0/WordUnscambler.runtimeconfig.json
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/bin/Debug/net5.0/WordUnscambler.runtimeconfig.dev.json
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/bin/Debug/net5.0/WordUnscambler.dll
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/bin/Debug/net5.0/ref/WordUnscambler.dll
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/bin/Debug/net5.0/WordUnscambler.pdb
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/obj/Debug/net5.0/WordUnscambler.csproj.AssemblyReference.cache
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/obj/Debug/net5.0/WordUnscambler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/obj/Debug/net5.0/WordUnscambler.AssemblyInfoInputs.cache
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/obj/Debug/net5.0/WordUnscambler.AssemblyInfo.cs
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/obj/Debug/net5.0/WordUnscambler.csproj.CoreCompileInputs.cache
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/obj/Debug/net5.0/WordUnscambler.dll
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/obj/Debug/net5.0/ref/WordUnscambler.dll
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/obj/Debug/net5.0/WordUnscambler.pdb
+/Users/mariasliufko/Projects/WordUnscambler/WordUnscambler/obj/Debug/net5.0/WordUnscambler.genruntimeconfig.cache
