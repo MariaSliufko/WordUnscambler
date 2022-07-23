@@ -1,21 +1,23 @@
 ﻿<Properties StartupConfiguration="{755FF59C-1CCD-48D4-A3A9-F18C74EFDE5C}|Default">
   <MonoDevelop.Ide.ItemProperties.WordUnscambler PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WordUnscambler/Constants.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordUnscambler/Program.cs">
     <Files>
-      <File FileName="WordUnscambler/Program.cs" Line="72" Column="92" />
+      <File FileName="WordUnscambler/Program.cs" Line="15" Column="40" />
       <File FileName="WordUnscambler/Workers/FileReader.cs" Line="23" Column="32" />
       <File FileName="WordUnscambler/Workers/WordMatcher.cs" Line="37" Column="85" />
       <File FileName="WordUnscambler/Data/MatchedWord.cs" Line="1" Column="1" />
-      <File FileName="WordUnscambler/Constants.cs" Line="1" Column="1" />
+      <File FileName="WordUnscambler/Constants.cs" Line="23" Column="63" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WordUnscambler" expanded="True">
             <Node name="WordUnscambler" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
               <Node name="Data" expanded="True" />
               <Node name="Workers" expanded="True" />
-              <Node name="Constants.cs" selected="True" />
             </Node>
           </Node>
         </State>

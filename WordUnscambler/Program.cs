@@ -26,15 +26,15 @@ namespace WordUnscambler
                     switch (option.ToUpper())
                     {
                         case Constants.File:
-                            Console.Write(Constants.EnterScrambledWordsViaFile);
+                            Console.WriteLine(Constants.EnterScrambledWordsViaFile);
                             ExecuteScrambledWordsInFileScenerio();
                             break;
                         case Constants.Manual:
-                            Console.Write(Constants.EnterScrambledWordsManually);
+                            Console.WriteLine(Constants.EnterScrambledWordsManually);
                             ExecuteScrambledWordsManualEntryScenerio();
                             break;
                         default:
-                            Console.Write(Constants.EnterScrambledWordsOptionNotRecognized);
+                            Console.WriteLine(Constants.EnterScrambledWordsOptionNotRecognized);
                             break;
                     }
 
